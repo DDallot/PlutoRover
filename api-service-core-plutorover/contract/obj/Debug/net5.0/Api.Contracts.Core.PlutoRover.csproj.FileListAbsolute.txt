@@ -1,0 +1,15 @@
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.exe
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.deps.json
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.runtimeconfig.json
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.runtimeconfig.dev.json
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.dll
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\ref\Api.Contracts.Core.PlutoRover.dll
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\bin\Debug\net5.0\Api.Contracts.Core.PlutoRover.pdb
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.AssemblyInfoInputs.cache
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.AssemblyInfo.cs
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.csproj.CoreCompileInputs.cache
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.dll
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\ref\Api.Contracts.Core.PlutoRover.dll
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.pdb
+C:\Users\DIALV\Documents\Diogo\Plum Guide\api-service-core-plutorover\contract\obj\Debug\net5.0\Api.Contracts.Core.PlutoRover.genruntimeconfig.cache

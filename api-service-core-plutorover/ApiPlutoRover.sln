@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Services.Core.PlutoRover", "src\Api.Services.Core.PlutoRover.csproj", "{BC907E7D-03E2-43C3-AEA7-EABBA15599B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Services.Core.PlutoRover.UnitTests", "test\Api.Services.Core.PlutoRover.UnitTests.csproj", "{C2C5326D-11CA-49D4-BFF5-775AC9DF97A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Contracts.Core.PlutoRover", "contract\Api.Contracts.Core.PlutoRover.csproj", "{2F3B4C7B-1C07-4F91-883C-308C6D03DFE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3078271C-F315-49D4-8B20-65243EAB48A6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC907E7D-03E2-43C3-AEA7-EABBA15599B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC907E7D-03E2-43C3-AEA7-EABBA15599B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC907E7D-03E2-43C3-AEA7-EABBA15599B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC907E7D-03E2-43C3-AEA7-EABBA15599B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C5326D-11CA-49D4-BFF5-775AC9DF97A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C5326D-11CA-49D4-BFF5-775AC9DF97A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C5326D-11CA-49D4-BFF5-775AC9DF97A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C5326D-11CA-49D4-BFF5-775AC9DF97A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3B4C7B-1C07-4F91-883C-308C6D03DFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3B4C7B-1C07-4F91-883C-308C6D03DFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3B4C7B-1C07-4F91-883C-308C6D03DFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3B4C7B-1C07-4F91-883C-308C6D03DFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F0CAE2-7021-47E3-BEEE-AB2EEE325DB3}
+	EndGlobalSection
+EndGlobal

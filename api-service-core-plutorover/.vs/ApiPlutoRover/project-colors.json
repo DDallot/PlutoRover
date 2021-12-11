@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc907e7d-03e2-43c3-aea7-eabba15599b1": {
+      "ProjectGuid": "bc907e7d-03e2-43c3-aea7-eabba15599b1",
+      "DisplayName": "Api.Services.Core.PlutoRover",
+      "ColorIndex": 0
+    },
+    "c2c5326d-11ca-49d4-bff5-775ac9df97a2": {
+      "ProjectGuid": "c2c5326d-11ca-49d4-bff5-775ac9df97a2",
+      "DisplayName": "Api.Services.Core.PlutoRover.UnitTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0f7a0c5e-4b5c-4c01-9d89-b6425e56c2bc": {
+      "ProjectGuid": "0f7a0c5e-4b5c-4c01-9d89-b6425e56c2bc",
+      "DisplayName": "Api.Contracts.Core.PlutoRover",
+      "ColorIndex": 2
+    },
+    "2f3b4c7b-1c07-4f91-883c-308c6d03dfe9": {
+      "ProjectGuid": "2f3b4c7b-1c07-4f91-883c-308c6d03dfe9",
+      "DisplayName": "Api.Contracts.Core.PlutoRover",
+      "ColorIndex": 3
+    },
+    "3078271c-f315-49d4-8b20-65243eab48a6": {
+      "ProjectGuid": "3078271c-f315-49d4-8b20-65243eab48a6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
